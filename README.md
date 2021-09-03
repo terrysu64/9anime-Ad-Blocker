@@ -1,1 +1,1 @@
-A simple ad-blocker for 9anime.to 🚫
+A simple chrome extension ad-blocker for 9anime.to 🚫
