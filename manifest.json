@@ -1,0 +1,10 @@
+{
+    "name": "9anime Ad-Blocker",
+    "version": "1.1",
+    "description": "9anime.to Ad-Blocker",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "manifest_version": 2
+}
