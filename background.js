@@ -14,7 +14,8 @@ const defaultFilters = [
 	"*://*.bunny.net/*",
 	"*://*.bidgear.com/*",
 	"*://*.thebestgame2020.com/*",
-	"*://*.chaturbate.com/*"
+	"*://*.chaturbate.com/*",
+	"*://hooligart.itch.io/town-of-sins/*"
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
