@@ -1,3 +1,4 @@
+// Add additional ad sites if necessary
 const defaultFilters = [
 	"*://*.doubleclick.net/*",
 	"*://partner.googleadservices.com/*",
