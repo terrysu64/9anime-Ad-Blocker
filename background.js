@@ -16,7 +16,8 @@ const defaultFilters = [
 	"*://*.thebestgame2020.com/*",
 	"*://*.chaturbate.com/*",
 	"*://hooligart.itch.io/town-of-sins/*",
-	"*://https://niceanimegames.com/*"
+	"*://https://niceanimegames.com/*",
+	"://*.facebook.com/*"
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
