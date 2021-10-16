@@ -4,6 +4,7 @@ const defaultFilters = [
 	"*://partner.googleadservices.com/*",
 	"*://*.googlesyndication.com/*",
 	"*://*.google-analytics.com/*",
+	"*://*.googletagmanager.com/*",
 	"*://creative.ak.fbcdn.net/*",
 	"*://*.adbrite.com/*",
 	"*://*.exponential.com/*",
